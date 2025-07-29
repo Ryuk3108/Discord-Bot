@@ -20,10 +20,4 @@ It gives a regular update on the fuel/co2 prices in the discord server that it i
 ## Example Use Case
 Anyone playing the game and wanting to scale up inside the game, would need to manage their costs on the fuel and co2, two essential in-game items.
 So they can use this bot to fetch prices, and decide when they want to fill up their quotas and fuel
-
-Example:
-> This bot runs every hour and sends a Discord alert when AM4 fuel prices drop below 400, helping players take timely action.
-
----
-
-## 📂 Folder / File Structure
+Example: Every 30 minutes, when the fuel and co2 prices changes in-game, it gives an update when they fall below the threshold of "Fuel:1200 and CO2:150"
